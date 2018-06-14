@@ -5,4 +5,5 @@ package com.example.ruparavulakollu.example;
  */
 
 public class PushTest {
+    int var =10;
 }
